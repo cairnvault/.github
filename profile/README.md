@@ -23,6 +23,28 @@ Read it as a [web page](https://cairnvault.github.io/digital-legacy-teardown/), 
 - **Apple's Legacy Contact excludes your passwords.** Verbatim from [Apple's own support page](https://support.apple.com/en-us/102631): *"Inaccessible data includes … data stored in your iCloud Keychain (payment information, passwords, and passkeys)."* Your photos and messages pass to your legacy contact. The keys to everything else do not.
 - **The one company that genuinely verifies death can therefore read your vault.** Not an accusation — a structural consequence. The moment an employee can review a certificate and click "grant access," the encryption is a policy rather than a mechanism.
 
+### ❓ [15 questions about digital death, answered from primary sources](https://cairnvault.github.io/digital-legacy-answers/)
+
+The teardown compares products. This one answers the questions people actually type into a search box, each on its own page, each checked against the vendor's, regulator's or legislature's own documentation:
+
+[Google](https://cairnvault.github.io/digital-legacy-answers/what-happens-to-my-google-account-when-i-die.html) ·
+[Apple/iCloud](https://cairnvault.github.io/digital-legacy-answers/what-happens-to-my-apple-icloud-account-when-i-die.html) ·
+[Facebook & Instagram](https://cairnvault.github.io/digital-legacy-answers/what-happens-to-my-facebook-instagram-account-when-i-die.html) ·
+[can my spouse get into my password manager](https://cairnvault.github.io/digital-legacy-answers/can-my-spouse-access-my-password-manager-if-i-die.html) ·
+[how Bitwarden emergency access really works](https://cairnvault.github.io/digital-legacy-answers/how-bitwarden-emergency-access-works.html) ·
+[should I write my passwords down](https://cairnvault.github.io/digital-legacy-answers/should-i-write-my-passwords-down-for-my-family.html) ·
+[is it legal to log into a dead person's account](https://cairnvault.github.io/digital-legacy-answers/is-it-legal-to-log-into-a-dead-persons-accounts.html) ·
+[does my will cover digital assets](https://cairnvault.github.io/digital-legacy-answers/does-my-will-cover-my-digital-assets.html) ·
+[crypto](https://cairnvault.github.io/digital-legacy-answers/what-happens-to-my-crypto-if-i-die.html) ·
+[subscriptions](https://cairnvault.github.io/digital-legacy-answers/what-happens-to-subscriptions-when-someone-dies.html) ·
+[letting family find accounts safely](https://cairnvault.github.io/digital-legacy-answers/how-can-my-family-find-my-accounts-without-exposing-them.html) ·
+[digital executors](https://cairnvault.github.io/digital-legacy-answers/what-is-a-digital-executor.html) ·
+[photos](https://cairnvault.github.io/digital-legacy-answers/what-happens-to-my-photos-when-i-die.html) ·
+[my parent died and I can't get into their phone](https://cairnvault.github.io/digital-legacy-answers/my-parent-died-and-i-cant-access-their-phone.html) ·
+[if the password manager company shuts down](https://cairnvault.github.io/digital-legacy-answers/what-happens-if-my-password-manager-shuts-down.html)
+
+Each answer is written to be complete on its own. You should not have to click anything — including anything of ours — to get the real answer.
+
 ---
 
 ## How we work
