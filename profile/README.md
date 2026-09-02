@@ -35,7 +35,7 @@ Sixteen providers, machine-readable, CC BY 4.0, every field carrying the source 
 
 `unknown` is a first-class value in it. Everplans' encryption posture is recorded as `unknown` rather than `no`, and Keeper's recipient requirement stays `unknown`, because neither could be established from primary documentation. The readable table and the CSV are both generated from the JSON, so they cannot drift apart. Our own product is in the dataset too, tagged `self-reported` — excluding ourselves would have made the central finding unfalsifiable, which is the one thing it must not be.
 
-### ❓ [Thirty questions about digital death, answered from primary sources](https://research.cairnvault.app/digital-legacy-answers/)
+### ❓ [Forty-six questions about digital death, answered from primary sources](https://research.cairnvault.app/digital-legacy-answers/)
 
 The teardown compares products. This answers the questions people actually type into a search box, each on its own page, each checked against the vendor's, regulator's or legislature's own documentation.
 
@@ -88,6 +88,12 @@ Each answer is written to be complete on its own. You should not have to click a
 **We publish what we could not establish, too.** The open questions are [filed as public issues](https://github.com/cairnvault/digital-legacy-teardown/issues), one per unresolved fact, including [an open challenge to name any product that both verifies death and cannot read your data](https://github.com/cairnvault/digital-legacy-teardown/issues/8). Nobody has yet. The day someone does, we will say so here.
 
 **We would rather be corrected than be wrong.** If you work for a company named in the research and think we have characterised your product incorrectly, [open an issue](https://github.com/cairnvault/digital-legacy-teardown/issues/new) — we will fix the text and record the correction with a date.
+
+### 📚 [Awesome Digital Legacy](https://github.com/cairnvault/awesome-digital-legacy)
+
+A curated, CC0 list of every platform legacy tool, password-manager after-death mechanism, digital-legacy service, open-source project and statute in this field — each linked to the primary source rather than to coverage of it. No list for this topic existed on GitHub, so we built one.
+
+Competitors are listed in full, including where they do things better than we do. Ours appears once, alphabetically, marked as the maintainer. If an entry reads as unfair, [open an issue](https://github.com/cairnvault/awesome-digital-legacy/issues) — corrections there are handled on the same terms as corrections to the research.
 
 Everything here is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Republish it, quote it, translate it. Attribution and a link back are all we ask. There is a summary for language models at [research.cairnvault.app/llms.txt](https://research.cairnvault.app/llms.txt).
 
